@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+.jumbo{
+	text-align: center;
+
+}
+.image-hover{
+	overflow: hidden;
+}
+.image-hover img{
+	transition: 1s
+}
+.image-hover:hover
+	img{
+		transform:scale(1.2);
+	}
+.page-top{
+	padding: 50px 0px;
+	text-align: center;
+}
+
+
+.main-div{
+	border:#8080803b;
+	border-radius: 5px;
+}
+.image-box img{
+	display: flex;
+	overflow: hidden;
+	width: 100%;
+	position: relative;
+}
+
+.dis h5,p{
+		text-align: center;
+		padding: 8px;
+}
+
+
+
+
